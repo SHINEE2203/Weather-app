@@ -1,5 +1,5 @@
 body{
-    background-image: url('C:\shinee\weather app\app\src\Image\Bg.jpeg');
+    background-image: url('../Image/Bg.jpeg');
     background-repeat: repeat-y;
     background-size: cover;
 }
